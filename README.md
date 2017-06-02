@@ -20,7 +20,7 @@ Test Scenarios:
 ***
 Instructions
 
-1. `git clone git@bitbucket.org:warren_chaudhry/amaysimshoppingcart.git`
+1. `git clone git@github.com:warrenchaudhry/amaysimshoppingcart.git`
 2. `cd amaysimshoppingcart`
 
 ```shell
