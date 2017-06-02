@@ -19,7 +19,8 @@ Instructions
 1. `git clone git@bitbucket.org:warren_chaudhry/amaysimshoppingcart.git`
 2. `cd amaysimshoppingcart`
 
-    ```shell
+
+  ```shell
     $ cd amaysimshoppingcart
     $ irb
     2.3.3 :001 > load 'product.rb'
@@ -35,5 +36,6 @@ Instructions
     2.3.3 :011 > cart.total
 
   ```
+
 3. To execute scenarios, run `ruby scenarios.rb`
 4. To execute test cases, run `ruby test_cases_shopping_cart.rb`
