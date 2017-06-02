@@ -25,7 +25,6 @@ Instructions
 
 ```shell
 
-    $ cd amaysimshoppingcart
     $ irb
     2.3.3 :001 > load 'product.rb'
     2.3.3 :002 > load 'shopping_cart.rb'
